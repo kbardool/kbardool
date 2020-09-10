@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Kevin Bardool. I'm a (perpetual) student of Machine Learning, Deep Learning, and Computer Vision. I'm hail from sunny Southern California ☀️🏖️🌊
+My name is Kevin Bardool. I'm a (perpetual) student of Machine Learning, Deep Learning, and Computer Vision. I hail from sunny Southern California ☀️🏖️🌊
 
 - 😄 Pronouns: he/him
 
