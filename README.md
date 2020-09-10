@@ -1,5 +1,11 @@
 ### Hi there 👋
-[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kbardool)](https://github.com/kbardool/github-readme-stats)
+Student of Deep Learning and Computer Vision! 
+
+
+[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kbardool)](https://github.com/kbardool/github-readme-stats&show_icons=true&theme=radical)
+
+
+![](https://img.shields.io/badge/<OS>-<WINDOWS>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 <!--
 **kbardool/kbardool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Student of Deep Learning and Computer Vision! This little profile is a work in progress....
+
