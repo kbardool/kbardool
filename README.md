@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kbardool)](https://github.com/kbardool/github-readme-stats)
 <!--
 **kbardool/kbardool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
