@@ -13,7 +13,7 @@ I'm currently working on my  Udacity Self Driving Car NanoDegree.
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kbardool&theme=tokyonight" />
 </p>
-<img align="center" src=https://github-stats-alpha.vercel.app/api?username=kbardool&cc=000&tc=fff&ic=fff&bc=000"/>
+<img align="center" src="https://github-stats-alpha.vercel.app/api?username=kbardool&cc=000&tc=fff&ic=fff&bc=000"/>
 </p>
 
 <p>
