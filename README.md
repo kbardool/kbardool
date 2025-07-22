@@ -1,7 +1,6 @@
 ## Hi there 👋
-My name is Kevin Bardool. I'm a (perpetual) student of Machine Learning, Deep Learning, and Computer Vision. I  ☀️🏖️🌊
+I'm a perpetual student of everything AI . . . Machine Learning, Deep Learning, and Computer Vision. I  ☀️🏖️🌊
 
-- 😄 Pronouns: he/him
 
 You can find me on [![LinkedIn][2.2]][2].
 
@@ -11,6 +10,8 @@ You can find me on [![LinkedIn][2.2]][2].
 
 <br>
 <img align="center" src="https://github-stats-alpha.vercel.app/api?username=kbardool&cc=000&tc=fff&ic=fff&bc=000"/>
+<img align="center" src="https://github-stats-alpha.vercel.app/api?username=kbardool&theme=dracula"/>
+
 </p>
 
 <p>
@@ -49,7 +50,10 @@ You can find me on [![LinkedIn][2.2]][2].
 - Docker
 - Azure Machine Learning
 
-
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kbardool&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kbardool&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kbardool&theme=dracula)
 <!--
 **kbardool/kbardool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
