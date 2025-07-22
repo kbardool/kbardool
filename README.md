@@ -1,18 +1,15 @@
 ## Hi there 👋
-My name is Kevin Bardool. I'm a (perpetual) student of Machine Learning, Deep Learning, and Computer Vision. I hail from sunny Southern California ☀️🏖️🌊
+My name is Kevin Bardool. I'm a (perpetual) student of Machine Learning, Deep Learning, and Computer Vision. I  ☀️🏖️🌊
 
 - 😄 Pronouns: he/him
 
 You can find me on [![LinkedIn][2.2]][2].
-##  ️&#x2699; I’m currently working on ...
-I'm currently working on my  Udacity Self Driving Car NanoDegree. 
+
 
 
 ## &#x1f4c8; GitHub Stats
 
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kbardool&theme=tokyonight" />
-</p>
 <img align="center" src="https://github-stats-alpha.vercel.app/api?username=kbardool&cc=000&tc=fff&ic=fff&bc=000"/>
 </p>
 
@@ -46,6 +43,7 @@ I'm currently working on my  Udacity Self Driving Car NanoDegree.
 </br>
 
 ## &#x1F4DC; I’m currently learning or expanding my skills in ...
+- LLM Engineering, AI Agents, RAGs
 - PostgreSQL
 - OpenCV
 - Docker
